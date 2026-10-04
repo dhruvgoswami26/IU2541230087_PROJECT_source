@@ -1,0 +1,4 @@
+Employee|E101|Rahul K Shah|Operations
+Employee|E102|Priya Patel|IT
+Visitor|V201|Amit Verma|Delivery|Rahul Shah
+Employee|E103|Neha Joshi|HR
